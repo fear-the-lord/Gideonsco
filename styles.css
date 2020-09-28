@@ -133,18 +133,19 @@ header {
 	transform: scale(1);
 }
 
-.nav-item {
+/*.nav-item {
 	border-bottom: 2px solid rgba(255, 255, 255, .3);
-}
+}*/
 
 .nav-link {
 	display: block;
 	color: #fff;
 	text-transform: uppercase;
-	font-size: 1.6rem;
+	font-size: 2.0em;
 	letter-spacing: 2px;
 	margin-right: -2px;
 	transition: color .5s;
+	font-weight: bold;
 }
 
 .nav-link:hover {
